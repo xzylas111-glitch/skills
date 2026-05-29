@@ -16,9 +16,10 @@ as basic Jetpack Compose best practices.
 
 To learn more, read the official documentation:
 
-- [Android skills](https://developer.android.com/tools/agents/android-skills)
+- [Android skills]
+- droid-skills)
 - [Android CLI](https://developer.android.com/tools/agents/android-cli)
-- [Android Studio](https://developer.android.com/studio/gemini/skills)
+ni/skills)
 
 ### Install Android skills
 
